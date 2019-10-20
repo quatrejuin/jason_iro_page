@@ -1,7 +1,7 @@
 ---
-title: [Jason Wu's RALI personal page]
-description: [Master student of University of Montreal]
-logo: [https://avatars1.githubusercontent.com/u/4126566?s=460&v=4]
+title: Jason Wu's RALI personal page
+description: Master student of University of Montreal
+logo: https://avatars1.githubusercontent.com/u/4126566?s=460&v=4
 ---
 
 # Report
